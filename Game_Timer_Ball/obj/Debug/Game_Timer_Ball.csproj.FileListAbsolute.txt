@@ -1,0 +1,10 @@
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\bin\Debug\Game_Timer_Ball.exe.config
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\bin\Debug\Game_Timer_Ball.exe
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\bin\Debug\Game_Timer_Ball.pdb
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\obj\Debug\Game_Timer_Ball.csprojAssemblyReference.cache
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\obj\Debug\Game_Timer_Ball.Form1.resources
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\obj\Debug\Game_Timer_Ball.Properties.Resources.resources
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\obj\Debug\Game_Timer_Ball.csproj.GenerateResource.cache
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\obj\Debug\Game_Timer_Ball.csproj.CoreCompileInputs.cache
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\obj\Debug\Game_Timer_Ball.exe
+C:\Users\Student_PL\source\repos\Game_Timer_Ball\obj\Debug\Game_Timer_Ball.pdb
